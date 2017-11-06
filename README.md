@@ -1,3 +1,3 @@
-# automerge-testy
+# automerge-test
 
 More
