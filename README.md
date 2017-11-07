@@ -1,2 +1,2 @@
-# automerge-testd
+# automerge-testing
 
