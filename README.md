@@ -1,1 +1,1 @@
-# automerge-testing
+# automerge-testing [test]
